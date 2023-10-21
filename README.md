@@ -2,16 +2,16 @@
 
 ## Home Menu
 ![](home.png)
-- Menampilkan semua menu atau pilihan fitur
+Menampilkan semua menu atau pilihan fitur
 ![](viewProduct.png)
-- Menampilkan semua product yang ada  dalam database
+Menampilkan semua product yang ada  dalam database
 ![](stockMenu.png)
-- Menampilkan stok yang ada dalam database berdasarkan nama dan jumlah
+Menampilkan stok yang ada dalam database berdasarkan nama dan jumlah
 ![](statisticMenu.png)
-- Menampilkan menu statistik
+Menampilkan menu statistik
 ![](barChart.png)
-- Menampilkan semua data produk dengan tampilan grafik Bar Chart
+Menampilkan semua data produk dengan tampilan grafik Bar Chart
 ![](lineChart.png)
-- Menampilkan semua data produk dengan tampilan grafik Line Chart
+Menampilkan semua data produk dengan tampilan grafik Line Chart
 ![](pieChart.png)
-- Menampilkan semua data produk dengan tampilan grafik Pie Chart
+Menampilkan semua data produk dengan tampilan grafik Pie Chart
