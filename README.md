@@ -3,7 +3,6 @@
 ## Home Menu
 ![](home.png)
 - Menampilkan semua menu atau pilihan fitur
-<br>
 ![](viewProduct.png)
 - Menampilkan semua product yang ada  dalam database
 ![](stockMenu.png)
